@@ -1,0 +1,1071 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Canada?",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "In which year did Christopher Columbus reach the Americas?",
+      "subject": "History",
+      "topic": "Exploration",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Name the largest planet in our solar system.",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the square root of 25?",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "subject": "Art",
+      "topic": "Paintings",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the primary color of the United Nations flag?",
+      "subject": "Flags",
+      "topic": "World Organizations",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "subject": "Economics",
+      "topic": "Currencies",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "subject": "Medicine",
+      "topic": "Inventions",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "subject": "Culinary",
+      "topic": "Food",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "subject": "History",
+      "topic": "Presidents",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Name the smallest prime number.",
+      "subject": "Mathematics",
+      "topic": "Number Theory",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who wrote 'Macbeth'?",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "subject": "Geography",
+      "topic": "Oceans",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "subject": "Biology",
+      "topic": "Cells",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "subject": "History",
+      "topic": "Maritime History",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Name the closest star to Earth.",
+      "subject": "Astronomy",
+      "topic": "Stars",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is 5 multiplied by 3?",
+      "subject": "Mathematics",
+      "topic": "Arithmetic",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Who painted 'Starry Night'?",
+      "subject": "Art",
+      "topic": "Paintings",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What color is the top stripe on the United States flag?",
+      "subject": "Flags",
+      "topic": "National Flags",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star'?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Who is the author of 'Pride and Prejudice'?",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the currency of China?",
+      "subject": "Economics",
+      "topic": "Currencies",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Who invented the telephone?",
+      "subject": "Inventions",
+      "topic": "Technology",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the main ingredient in salsa?",
+      "subject": "Culinary",
+      "topic": "Food",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Who was the second President of the United States?",
+      "subject": "History",
+      "topic": "Presidents",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Name the first even prime number.",
+      "subject": "Mathematics",
+      "topic": "Number Theory",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the smallest continent?",
+      "subject": "Geography",
+      "topic": "Continents",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What organelle is responsible for photosynthesis in plant cells?",
+      "subject": "Biology",
+      "topic": "Cells",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the capital of France?",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "In which year did World War II end?",
+      "subject": "History",
+      "topic": "World War II",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Name the largest mammal on Earth.",
+      "subject": "Biology",
+      "topic": "Mammals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the square of 4?",
+      "subject": "Mathematics",
+      "topic": "Arithmetic",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Who painted the 'Mona Lisa'?",
+      "subject": "Art",
+      "topic": "Paintings",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What color is the sun?",
+      "subject": "Astronomy",
+      "topic": "Sun",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Explain the concept of relativity in physics.",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Solve the system of equations: 2x + y = 5, x - y = 3.",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the causes and effects of the Industrial Revolution.",
+      "subject": "History",
+      "topic": "Industrial Revolution",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What are the key features of a Shakespearean tragedy?",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the process of cellular respiration in biology.",
+      "subject": "Biology",
+      "topic": "Cellular Respiration",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Define and explain the concept of supply and demand in economics.",
+      "subject": "Economics",
+      "topic": "Supply and Demand",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Describe the structure and function of a neuron in the nervous system.",
+      "subject": "Biology",
+      "topic": "Neuroscience",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of globalization on cultures around the world.",
+      "subject": "Social Science",
+      "topic": "Globalization",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of mitosis in cell division.",
+      "subject": "Biology",
+      "topic": "Cell Division",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the major themes in George Orwell's '1984'.",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the role of enzymes in biochemical reactions.",
+      "subject": "Chemistry",
+      "topic": "Biochemistry",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the causes and consequences of climate change.",
+      "subject": "Environmental Science",
+      "topic": "Climate Change",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Describe the process of photosynthesis in plant cells.",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of classical conditioning in psychology.",
+      "subject": "Psychology",
+      "topic": "Behavioral Psychology",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of the Renaissance on art and culture.",
+      "subject": "Art History",
+      "topic": "Renaissance",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the causes and effects of the French Revolution.",
+      "subject": "History",
+      "topic": "French Revolution",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the properties and uses of electromagnetic waves.",
+      "subject": "Physics",
+      "topic": "Electromagnetism",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Describe the process of continental drift and plate tectonics.",
+      "subject": "Geology",
+      "topic": "Plate Tectonics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the economic principles of perfect competition.",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of social media on society.",
+      "subject": "Social Science",
+      "topic": "Media Studies",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain Newton's second law of motion.",
+      "subject": "Physics",
+      "topic": "Classical Mechanics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Solve the equation: 3x + 2 = 8.",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the main causes of the American Civil War.",
+      "subject": "History",
+      "topic": "American Civil War",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Compare and contrast the themes in two Shakespearean sonnets.",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the process of cellular mitosis.",
+      "subject": "Biology",
+      "topic": "Cell Division",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Define opportunity cost in economics.",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Describe the structure of a plant cell.",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the impact of globalization on local cultures.",
+      "subject": "Social Science",
+      "topic": "Globalization",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the role of the endocrine system in the human body.",
+      "subject": "Biology",
+      "topic": "Endocrinology",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Compare the themes in two works of literature from different cultures.",
+      "subject": "Literature",
+      "topic": "Comparative Literature",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the impact of enzymes on chemical reactions in the body.",
+      "subject": "Biology",
+      "topic": "Biochemistry",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Examine the effects of deforestation on biodiversity.",
+      "subject": "Environmental Science",
+      "topic": "Deforestation",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Define and explain the law of supply in economics.",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Describe the major components of the nervous system.",
+      "subject": "Biology",
+      "topic": "Neuroscience",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the impact of the Industrial Revolution on urbanization.",
+      "subject": "History",
+      "topic": "Industrial Revolution",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the properties of electromagnetic waves.",
+      "subject": "Physics",
+      "topic": "Electromagnetism",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the role of plate tectonics in shaping Earth's surface.",
+      "subject": "Geology",
+      "topic": "Plate Tectonics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Define and explain the concept of elasticity in economics.",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the influence of art movements on modern art.",
+      "subject": "Art History",
+      "topic": "Modern Art",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the process of continental drift.",
+      "subject": "Geology",
+      "topic": "Continental Drift",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the concept of supply and demand in economics.",
+      "subject": "Economics",
+      "topic": "Supply and Demand",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Describe the process of cellular respiration in biology.",
+      "subject": "Biology",
+      "topic": "Cellular Respiration",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the major themes in George Orwell's '1984'.",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Explain the economic principles of perfect competition.",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Define and explain the law of supply in economics.",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Describe the process of photosynthesis in plant cells.",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Explain the principles of classical conditioning in psychology.",
+      "subject": "Psychology",
+      "topic": "Behavioral Psychology",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the impact of the Renaissance on art and culture.",
+      "subject": "Art History",
+      "topic": "Renaissance",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Examine the causes and effects of the French Revolution.",
+      "subject": "History",
+      "topic": "French Revolution",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Describe the process of continental drift and plate tectonics.",
+      "subject": "Geology",
+      "topic": "Plate Tectonics",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "question": "Derive the Schr\u00c3\u00b6dinger equation in quantum mechanics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Solve the system of partial differential equations: \u00e2\u02c6\u201a\u00c2\u00b2u/\u00e2\u02c6\u201at\u00c2\u00b2 = c\u00c2\u00b2 \u00e2\u02c6\u201a\u00c2\u00b2u/\u00e2\u02c6\u201ax\u00c2\u00b2.",
+      "subject": "Mathematics",
+      "topic": "Partial Differential Equations",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Examine the geopolitical implications of the Cold War.",
+      "subject": "Political Science",
+      "topic": "Cold War",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the use of symbolism in James Joyce's 'Ulysses'.",
+      "subject": "Literature",
+      "topic": "Symbolism",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Investigate the genetic factors contributing to complex diseases.",
+      "subject": "Genetics",
+      "topic": "Human Genetics",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Evaluate the economic consequences of a global pandemic.",
+      "subject": "Economics",
+      "topic": "Global Pandemics",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Explain the intricacies of neural network architectures in artificial intelligence.",
+      "subject": "Computer Science",
+      "topic": "Neural Networks",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the ethical implications of genetic engineering in humans.",
+      "subject": "Bioethics",
+      "topic": "Genetic Engineering",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the role of epigenetics in heritability of traits.",
+      "subject": "Genetics",
+      "topic": "Epigenetics",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Explore the existential themes in the works of Jean-Paul Sartre.",
+      "subject": "Philosophy",
+      "topic": "Existentialism",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Investigate the potential of quantum computing in revolutionizing cryptography.",
+      "subject": "Computer Science",
+      "topic": "Quantum Computing",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Evaluate the impact of climate change on global food security.",
+      "subject": "Environmental Science",
+      "topic": "Climate Change",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the role of neurotransmitters in mood disorders.",
+      "subject": "Psychology",
+      "topic": "Neurotransmitters",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Examine the cultural significance of ancient architectural marvels.",
+      "subject": "History",
+      "topic": "Ancient Architecture",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Evaluate the ethical considerations in the use of artificial intelligence in healthcare.",
+      "subject": "Bioethics",
+      "topic": "Artificial Intelligence in Healthcare",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of colonization on indigenous cultures.",
+      "subject": "Anthropology",
+      "topic": "Colonialism",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of general relativity and their implications for cosmology.",
+      "subject": "Physics",
+      "topic": "General Relativity",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the economic consequences of a global energy crisis.",
+      "subject": "Economics",
+      "topic": "Energy Economics",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Evaluate the impact of artificial intelligence on job markets.",
+      "subject": "Economics",
+      "topic": "Artificial Intelligence",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Examine the factors contributing to the decline of biodiversity in rainforests.",
+      "subject": "Environmental Science",
+      "topic": "Biodiversity",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Describe the mathematical foundations of quantum mechanics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Solve the Navier-Stokes equations for fluid dynamics.",
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Examine the political implications of game theory in international relations.",
+      "subject": "Political Science",
+      "topic": "Game Theory",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Analyze the narrative structure in James Joyce's 'Finnegans Wake'.",
+      "subject": "Literature",
+      "topic": "Narrative Structure",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Investigate the role of non-coding RNAs in gene regulation.",
+      "subject": "Genetics",
+      "topic": "Non-coding RNAs",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Evaluate the economic consequences of a hypothetical extraterrestrial contact.",
+      "subject": "Economics",
+      "topic": "Extraterrestrial Economics",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Explain the algorithms behind deep learning neural networks.",
+      "subject": "Computer Science",
+      "topic": "Deep Learning",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the ethical considerations in gene editing for human enhancement.",
+      "subject": "Bioethics",
+      "topic": "Gene Editing",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Analyze the epigenetic modifications associated with aging.",
+      "subject": "Genetics",
+      "topic": "Epigenetics",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Explore the existential themes in the works of Albert Camus.",
+      "subject": "Philosophy",
+      "topic": "Existentialism",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Investigate the applications of quantum computing in cryptography.",
+      "subject": "Computer Science",
+      "topic": "Quantum Computing",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Evaluate the potential effects of geoengineering on climate change.",
+      "subject": "Environmental Science",
+      "topic": "Geoengineering",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Analyze the neural correlates of consciousness in neuroscience.",
+      "subject": "Psychology",
+      "topic": "Consciousness",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Examine the cultural impact of postmodern art movements.",
+      "subject": "Art History",
+      "topic": "Postmodern Art",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Evaluate the ethical implications of artificial intelligence in military applications.",
+      "subject": "Bioethics",
+      "topic": "Artificial Intelligence in Military",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the influence of postcolonial theory on contemporary literature.",
+      "subject": "Literature",
+      "topic": "Postcolonialism",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Explain the principles of string theory in theoretical physics.",
+      "subject": "Physics",
+      "topic": "String Theory",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Analyze the economic consequences of a global water scarcity crisis.",
+      "subject": "Economics",
+      "topic": "Water Scarcity Economics",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Evaluate the ethical considerations in the development of autonomous weapons.",
+      "subject": "Bioethics",
+      "topic": "Autonomous Weapons",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Examine the ecological consequences of large-scale urbanization.",
+      "subject": "Environmental Science",
+      "topic": "Urban Ecology",
+      "difficulty": "Hard",
+      "marks": 2
+    },
+    {
+      "question": "Derive the Schr\u00c3\u00b6dinger equation in quantum mechanics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Analyze the role of epigenetics in heritability of traits.",
+      "subject": "Genetics",
+      "topic": "Epigenetics",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Evaluate the economic consequences of a global pandemic.",
+      "subject": "Economics",
+      "topic": "Global Pandemics",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the ethical implications of genetic engineering in humans.",
+      "subject": "Bioethics",
+      "topic": "Genetic Engineering",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Investigate the potential of quantum computing in revolutionizing cryptography.",
+      "subject": "Computer Science",
+      "topic": "Quantum Computing",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Analyze the effects of deforestation on biodiversity.",
+      "subject": "Environmental Science",
+      "topic": "Deforestation",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the impact of enzymes on chemical reactions in the body.",
+      "subject": "Biology",
+      "topic": "Biochemistry",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Examine the geopolitical implications of the Cold War.",
+      "subject": "Political Science",
+      "topic": "Cold War",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Analyze the role of neurotransmitters in mood disorders.",
+      "subject": "Psychology",
+      "topic": "Neurotransmitters",
+      "difficulty": "Hard",
+      "marks": 1
+    },
+    {
+      "question": "Evaluate the impact of climate change on global food security.",
+      "subject": "Environmental Science",
+      "topic": "Climate Change",
+      "difficulty": "Hard",
+      "marks": 1
+    }
+  ],
+  "question_counts": {
+    "easy": {
+      "total_5_marks_ques": 20,
+      "total_2_marks_ques": 20,
+      "total_1_marks_ques": 10
+    },
+    "medium": {
+      "total_5_marks_ques": 20,
+      "total_2_marks_ques": 20,
+      "total_1_marks_ques": 10
+    },
+    "hard": {
+      "total_5_marks_ques": 20,
+      "total_2_marks_ques": 20,
+      "total_1_marks_ques": 10
+    }
+  }
+}

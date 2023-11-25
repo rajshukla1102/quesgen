@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Question Generator</title>
+  <style>
+    .question-card {
+      border: 1px solid #ddd;
+      padding: 15px;
+      margin-bottom: 10px;
+    }
+    .marks {
+      border: 1px solid red;
+      padding: 5px;
+      margin: 5px 0;
+      border-radius: 5px;
+      color: red;
+    }
+    .difficulty {
+      border: 1px solid green;
+      padding: 5px;
+      margin: 5px 0;
+      border-radius: 5px;
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <form id="form">
+      <label for="marks">Total Marks:</label><br>
+      <input type="number" id="marks" name="marks"><br>
+      <label for="easy">Easy %:</label><br>
+      <input type="number" id="easy" name="easy"><br>
+      <label for="medium">Medium %:</label><br>
+      <input type="number" id="medium" name="medium"><br>
+      <label for="hard">Hard %:</label><br>
+      <input type="number" id="hard" name="hard"><br>
+      <input type="submit" value="Generate Questions">
+    </form>
+
+    <div id="allquestions">
+
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
